@@ -17,3 +17,4 @@ Required: User can see picture, tagline, # of followers, # of following, and twe
 Required: User can click on the profile image in any tweet to see another user's profile.
 Required: User can see picture, tagline, # of followers, # of following, and tweets of clicked user.
 Required: Profile view should include that user's timeline
+![TwitterAndroidPhase2](twitterAndroidPhase2.gif)
