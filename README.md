@@ -10,7 +10,7 @@ User Stories:
 Required: Includes all required user stories from Week 3 Twitter Client
 Required: User can switch between Timeline and Mention views using tabs.
 Required: User can view their home timeline tweets.
-Required: User can view the recent mentions of their username. - You will notice it is blank because I dont have any mentions on my account but the code is in place and functional.
+Required: User can view the recent mentions of their username.
 Required: User can scroll to bottom of either of these lists and new tweets will load ("infinite scroll")
 Required: User can navigate to view their own profile
 Required: User can see picture, tagline, # of followers, # of following, and tweets on their profile.
